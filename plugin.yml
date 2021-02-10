@@ -1,0 +1,12 @@
+name: TeraCube Feed
+description: Vous redonne toute votre nourriture grace a la commande.
+
+main: TeraFeed\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+commands:
+  feed:
+    permission: teracube.feed
+    description: Executez cette commande pour vous nourrir!
+
+author: TeraTeam
